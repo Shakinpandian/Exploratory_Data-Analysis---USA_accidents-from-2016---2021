@@ -185,6 +185,9 @@ Exploratory Data Analysis (EDA) is an approach to analyze the data using visual 
      <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210094988-bb1db952-43ff-40af-85cb-225dcbbf1e67.png">
 </p>
 
+# Conclusion:
+
+The majority of accidents occurred during the day as a result of repairs to traffic signals. To control accidents, improve traffic controls, rules, and public awareness are necessary.
 
 
 
