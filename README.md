@@ -111,17 +111,17 @@ Exploratory Data Analysis (EDA) is an approach to analyze the data using visual 
 # 3.Which months have the most accidents from 2016 to 2021?
 
 <p align="center">
-     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082335-9521d587-3e9b-484f-80b4-431a8398ebbf.png>"
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082335-9521d587-3e9b-484f-80b4-431a8398ebbf.png">
 </p>
   
 # 4.Which day of the month have the most accients in 2017?
     
 <p align="center">
-     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082782-167d7ecf-98df-4c91-aea6-170482cbcf19.png>"
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082782-167d7ecf-98df-4c91-aea6-170482cbcf19.png">
 </p>
 
 <p align="center">
-     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082860-ac09e054-fd5b-47a3-ad24-150fbe23e982.png>"
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082860-ac09e054-fd5b-47a3-ad24-150fbe23e982.png">
 </p>
  
                                        
