@@ -24,7 +24,7 @@ To find out from the given data:
 
 7.which weather has the most accidents in USA?
 
-8.Sow the highest accident in USA using Heatmap?
+8.Show the accident area in USA using Heatmap?
   
 # Importing Libaries Package
 
@@ -112,9 +112,9 @@ Exploratory Data Analysis (EDA) is an approach to analyze the data using visual 
 
 ### States:
 
-Califonia has the huge accident area with around 800000 due to high population and poor traffic controls.
+- Califonia has the huge accident area with around 800000 due to high population and poor traffic controls.
 
-Virgina (va) has the least number of accident with around 150000 among the states in USA.
+- Virgina (va) has the least number of accident with around 150000 among the states in USA.
 
 ## 2.How many frequently reported accidents are there in each city?
 
@@ -124,7 +124,7 @@ Virgina (va) has the least number of accident with around 150000 among the state
 
 ### Observation:
 
-The distribution is right-skewed, and more than 70% of accidents occur between 1 and 5000 in each city.
+- The distribution is right-skewed, and more than 70% of accidents occur between 1 and 5000 in each city.
 
 ## 3.Which months have the most accidents from 2016 to 2021?
 
@@ -134,9 +134,9 @@ The distribution is right-skewed, and more than 70% of accidents occur between 1
   
 ### Observation:
 
-According to a survey, the harsh weather and business trips to celebrate Christmas and New Year's are to blame for the highest number of accidents in November and December.
+- According to a survey, the harsh weather and business trips to celebrate Christmas and New Year's are to blame for the highest number of accidents in November and December.
 
-In the following analysis, March and April have the fewest accidents, while December has the most, with about 600 000 accidents from 2016 to 2021.
+- In the following analysis, March and April have the fewest accidents, while December has the most, with about 600 000 accidents from 2016 to 2021.
 
 ## 4.Which day of the month have the most accients in 2017?
     
@@ -148,7 +148,44 @@ In the following analysis, March and April have the fewest accidents, while Dece
      <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082860-ac09e054-fd5b-47a3-ad24-150fbe23e982.png">
 </p>
  
-                                       
+ ### Observation:-
+- The distribution shows that the last day of the month had the highest average of 8000 accidents, while the other days had an average of 6500 accidents.
+
+## 5.Which weekday have the most accident in USA?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210094065-2e488c04-d303-4c49-afec-20b067c39622.png">
+</p>
+   
+### Observation:-
+
+- It demonstrates that, in the United States, the busiest days are Monday, Tuesday, Wednesday, and Thursday, when there are approximately 450000 accidents on average.
+
+## 6.Which hour the most accients obtained in USA from 2016 to 2021?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210094451-fe16f153-e6dd-42cb-bc68-66b1ff67e810.png">
+</p>
+
+### Observation:-
+- Clearly demonstrates that the majority of incidents occurred in the evening between 15 and 18 p.m. and the lowest accidents occur in the morning time.
+
+## 7.Which weather condition has the more accidents?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210094787-5d76c6e4-3fbd-4245-9bea-de1b34f89348.png">
+</p>
+
+### Observation:
+- Fair weather condition has the most accidents in USA and Mostly Cloudy as follow.
+
+## 8.Show the accident area in USA using Heatmap?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210094988-bb1db952-43ff-40af-85cb-225dcbbf1e67.png">
+</p>
+
+
 
 
 
