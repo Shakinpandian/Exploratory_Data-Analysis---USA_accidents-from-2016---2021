@@ -92,5 +92,41 @@ Its shows that the enormous datas are missing:
 
 - Unwanted features are removed by **Table_name.drop(["Feature_name"],inplace=True,axis=1)**
 
+# Exploratory Data Analysis
+
+Exploratory Data Analysis (EDA) is an approach to analyze the data using visual techniques. It is used to discover **trends, patterns, or to check assumptions with the help of statistical summary and graphical representations**.
+
+# 1.what is the top 5 highest accident City and State in USA?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210081523-d51f261d-a1b5-4195-8f60-74238a6d0eb5.png">
+</p>
+
+# 2.How many frequently reported accidents are there in each city?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082001-3b7f3e48-70f9-417c-9c98-7158a0886f9b.png">
+</p>
+
+# 3.Which months have the most accidents from 2016 to 2021?
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082335-9521d587-3e9b-484f-80b4-431a8398ebbf.png>"
+</p>
+  
+# 4.Which day of the month have the most accients in 2017?
+    
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082782-167d7ecf-98df-4c91-aea6-170482cbcf19.png>"
+</p>
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210082860-ac09e054-fd5b-47a3-ad24-150fbe23e982.png>"
+</p>
+ 
+                                       
+
+
+
 
 
