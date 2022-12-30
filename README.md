@@ -22,9 +22,9 @@ To find out from the given data:
 
 6..Which hour the most accients obtained in USA from 2016 to 2021?
 
-7. which weather has the most accidents in USA?
+7.which weather has the most accidents in USA?
 
-7.Sow the highest accident in USA using Heatmap?
+8.Sow the highest accident in USA using Heatmap?
   
 # Importing Libaries Package
 
@@ -68,4 +68,29 @@ Data Description:
 |Weather_Condition|Shows the weather condition (rain, snow, thunderstorm, fog, etc.)|
 |Wind_Speed(mph)| Shows wind speed (in miles per hour)|
 |Sunrise_Sunset|Shows the period of day (i.e. day or night) based on sunrise/sunset|
+|City|Shows the city in address field|
+|County|Shows the county in address field|
+|State|Shows the state in address field|
+
+# Data Cleaning:
+
+In this section, we will clean out our data based on the information retrieved from the previous observations.
+
+Hence, we will have to perform the following subtasks
+
+- Checking for missing values and manipulating them
+
+- Checking the datatypes
+
+- Checking of the Spelling Correction
+
+Its shows that the enormous datas are missing:
+
+<p align="center">
+     <img width="800" height="400" src="https://user-images.githubusercontent.com/119164734/210080464-20ecd99c-1d26-4d2a-9466-4002449285a3.png">
+</p>
+
+- Unwanted features are removed by **Table_name.drop(["Feature_name"],inplace=True,axis=1)**
+
+
 
