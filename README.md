@@ -188,6 +188,7 @@ Exploratory Data Analysis (EDA) is an approach to analyze the data using visual 
 # Conclusion:
 
 The majority of accidents occurred during the day as a result of repairs to traffic signals. To control accidents, improve traffic controls, rules, and public awareness are necessary.
+To avoid road accidents, drive within speed limit, do not drink and drive, do not use mobile phone while driving and adhere by the traffic rules.
 
 
 
